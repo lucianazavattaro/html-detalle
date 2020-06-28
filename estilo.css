@@ -1,0 +1,37 @@
+header {
+    text-align: center;
+    background: red;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-display: auto;
+    margin-left: auto;
+    border: 1px solid whitesmoke;
+    padding-left: 10px;
+    display: auto
+
+}
+
+section, nav {
+    
+
+    font:bold, auto, times, 12px;
+    text-align: center;
+    background: blueviolet;
+
+}
+
+article {
+    background: darkblue;
+    font: 12px, "times new roman", bolder;
+    display: auto;
+    padding-top: 2px;
+    padding-left: 2px ;
+    padding-right: 2px;
+
+}
+
+aside, footer {
+    display: auto;
+    text-align: center;
+}
